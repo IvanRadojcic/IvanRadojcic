@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Development Swift
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me --> ivan.radojcic@hotmail.com
+- 📫 How to reach me --> ivan.radojcic@seznam.cz
 
 <!---
 IvanRadojcic/IvanRadojcic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
